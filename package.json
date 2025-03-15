@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "name": "poland-diosana_midterm_exam",
+  "version": "1.0.0",
+  "main": "question2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolandDiosana/Diosana-Poland_midterm_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolandDiosana/Diosana-Poland_midterm_exam/issues"
+  },
+  "homepage": "https://github.com/PolandDiosana/Diosana-Poland_midterm_exam#readme",
+  "description": ""
+}
